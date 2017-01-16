@@ -7,7 +7,7 @@ package flashaaaaaaa;
 
 /**
  *
- * @author b3017336
+ * @author b3017336fewfewfewferwf
  */
 public class Flashaaaaaaa {
 
